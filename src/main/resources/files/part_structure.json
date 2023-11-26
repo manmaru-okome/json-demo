@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "structure_id": 100,
+      "parent_id": 100,
+      "child_id": 101,
+      "number_od_members": 1
+    }
+  ]
+}

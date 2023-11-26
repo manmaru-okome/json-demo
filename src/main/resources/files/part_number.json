@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "part_id": 100,
+      "part_code": "parent_id",
+      "part_name": "demo"
+    },{
+      "part_id": 101,
+      "part_code": "child_id",
+      "part_name": "demo"
+    }
+  ]
+}
